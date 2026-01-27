@@ -18,4 +18,3 @@ across the tools you already use (CI/CD, release management, incident response, 
 
 - **Discord**: Join at [discord.superplane.com](https://discord.superplane.com)
 - **X**: Follow [@superplanehq](https://x.com/superplanehq)
-``
