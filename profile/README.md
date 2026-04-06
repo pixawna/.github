@@ -13,7 +13,7 @@ use such as Git, CI/CD, observability, incident response, infra, and notificatio
 
 - **[`superplanehq/superplane`](https://github.com/superplanehq/superplane)**: Core application (workflow engine + UI + CLI).
 - **[`superplanehq/docs`](https://github.com/superplanehq/docs)**: Documentation site sources.
-- - **[`superplanehq/skills`](https://github.com/superplanehq/skills)**: Skills for AI agents.
+- **[`superplanehq/skills`](https://github.com/superplanehq/skills)**: Skills for AI agents.
 
 
 ## Community
