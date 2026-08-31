@@ -1,6 +1,6 @@
 <svg width="1200" height="500" viewBox="0 0 1200 500" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <title>SuperPlane — One-shot 30% of engineering tasks</title>
-  <desc>A dark SuperPlane banner showing a routine issue moving through Plan, Build, Check, and Review to become a verified pull request.</desc>
+  <title>SuperPlane: One-shot 30% of engineering tasks</title>
+  <desc>A dark SuperPlane banner showing a routine issue moving through Plan, Build, Check and Review to become a verified pull request.</desc>
   <defs>
     <linearGradient id="panel" x1="720" y1="64" x2="1110" y2="446" gradientUnits="userSpaceOnUse">
       <stop stop-color="#1B1E1C"/>
@@ -38,7 +38,7 @@
   <text x="72" y="244" fill="#F4F0E8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="52" font-weight="600" letter-spacing="-2.4">One-shot 30%</text>
   <text x="407" y="244" fill="#F4F0E8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="52" font-weight="600" letter-spacing="-2.4">of</text>
   <text x="72" y="304" fill="#F4F0E8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="52" font-weight="600" letter-spacing="-2.4">engineering tasks.</text>
-  <text x="72" y="355" fill="#A3A89F" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="20">Give agents clear work, consistent rules,</text>
+  <text x="72" y="355" fill="#A3A89F" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="20">Give agents clear work, consistent rules</text>
   <text x="72" y="384" fill="#A3A89F" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="20">and a path to verified results.</text>
 
   <rect x="72" y="427" width="178" height="38" rx="19" fill="#F4F0E8"/>

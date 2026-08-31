@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://superplane.com">
-    <img src="./assets/superplane-github-banner.svg" alt="SuperPlane — One-shot 30% of engineering tasks" width="100%">
+    <img src="./assets/superplane-github-banner.svg" alt="SuperPlane: One-shot 30% of engineering tasks" width="100%">
   </a>
 </p>
 
@@ -18,7 +18,7 @@ SuperPlane lets AI agents fully automate routine development work. Free your
 team to focus on what’s important.
 
 SuperPlane is an **open source AI software factory** for high-confidence routine
-work. It coordinates coding agents, source control, CI, review, approvals, and
+work. It coordinates coding agents, source control, CI, review, approvals and
 feedback in one visible system, turning focused issues into verified,
 review-ready pull requests without engineers managing every step.
 
@@ -29,54 +29,46 @@ review-ready pull requests without engineers managing every step.
 
 | 01 / Discover | 02 / Control | 03 / Verify |
 | --- | --- | --- |
-| Find codebase and backlog work that can be automated with high confidence. | Define allowed scope, required checks, review policy, approvals, and escalation paths once. | Capture failures, give the agent actionable feedback, rerun checks, and return work when it is ready. |
+| Find codebase and backlog work that can be automated with high confidence. | Define allowed scope, required checks, review policy, approvals and escalation paths once. | Capture failures, give the agent actionable feedback, rerun checks and return work when it is ready. |
+
+![SuperPlane workflow board moving work from backlog through planning, implementation and verification](./assets/workflow-board-yellow.png)
 
 ```text
 Focused issue → Plan → Build → Check ↺ Repair → Review → Verified PR
 ```
 
-The workflow—not the individual agent—owns the rules. Ambiguous work or tasks
+The workflow, not the individual agent, owns the rules. Ambiguous work or tasks
 that need engineering judgment stay with your team.
 
-## Start with work that can be scoped, checked, and reviewed
+## One factory, Your standards
 
-- Focused bugs and maintenance work
-- Paper cuts and small product improvements
-- Test fixes and flaky test repair
-- Documentation and API example updates
-- Routine changes with a clear, verifiable outcome
-
-## One factory. Your standards.
-
-- **Bring your agents.** Work with coding agents such as Claude, Cursor, and
+- **Bring your agents.** Work with coding agents such as Claude, Cursor and
   OpenAI alongside the rest of your engineering stack.
 - **Make judgment executable.** Apply the same tests, quality thresholds,
-  architecture rules, risk checks, and approvals to every run.
-- **Keep every run visible.** See what ran, what failed, what changed, and where
+  architecture rules, risk checks and approvals to every run.
+- **Keep every run visible.** See what ran, what failed, what changed and where
   human attention is required.
-- **Build around your constraints.** Choose your models, run in the cloud or
-  on-prem, and extend the factory on the Apache 2.0 engine.
+- **Build around your constraints.** Choose your models, run in the cloud and
+  extend the factory on the Apache 2.0 engine.
 
 ## Get started
 
-1. Follow the [SuperPlane quickstart](https://docs.superplane.com/get-started/quickstart/).
-2. Explore the [documentation](https://docs.superplane.com) and available
+1. Explore the [documentation](https://docs.superplane.com) and available
    [workflow components](https://docs.superplane.com/components/core/).
-3. Inspect, self-host, or contribute to the
+2. Inspect, self-host or contribute to the
    [`superplanehq/superplane`](https://github.com/superplanehq/superplane)
    open source engine.
 
 ## Open source by design
 
 Your factory should belong to your team. SuperPlane’s core is licensed under
-Apache 2.0, so you can choose the models, infrastructure, integrations, and cost
-profile that fit your organization.
+Apache 2.0, so you can choose the models, infrastructure and integrations that
+fit your organization.
 
 | Repository | What you’ll find |
 | --- | --- |
-| [`superplanehq/superplane`](https://github.com/superplanehq/superplane) | Software factory engine, UI, CLI, and the main contribution surface |
+| [`superplanehq/superplane`](https://github.com/superplanehq/superplane) | Software factory engine, UI, CLI and the main contribution surface |
 | [`superplanehq/docs`](https://github.com/superplanehq/docs) | Product and self-hosting documentation sources |
-| [`superplanehq/skills`](https://github.com/superplanehq/skills) | Skills that help AI agents work with SuperPlane |
 
 Want to build with us? Browse the
 [open issues](https://github.com/superplanehq/superplane/issues), pick up an
@@ -85,6 +77,7 @@ Want to build with us? Browse the
 
 ## Follow the factory
 
+- Join our [Discord community](https://discord.superplane.com).
 - Read engineering notes and release updates on the
   [SuperPlane blog](https://superplane.com/blog/).
 - Meet maintainers and contributors at
