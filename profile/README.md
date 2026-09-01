@@ -22,9 +22,6 @@ work. It coordinates coding agents, source control, CI, review, approvals and
 feedback in one visible system, turning focused issues into verified,
 review-ready pull requests without engineers managing every step.
 
-> SuperPlane does not replace the tools your team trusts. It replaces the glue
-> and manual coordination between them.
-
 ## From backlog to reviewed work
 
 | 01 / Discover | 02 / Control | 03 / Verify |
